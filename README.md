@@ -10,7 +10,7 @@ Welcome to my Python Projects repository. This collection showcases various Pyth
 ## Table of Contents
 
 - [Projects](#projects)
-  - [Practice 1](#practice-1)
+  - [Task_manager](#task_manager)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,8 +20,11 @@ Welcome to my Python Projects repository. This collection showcases various Pyth
 
 ## Projects
 
-### Practice 1
-This project contains basic Python exercises to practice and improve fundamental programming skills. [See project](https://github.com/isaka-12/PYTHON-PROJECTS/tree/main/PRACTICE%201)
+### Task_manager
+This project contains basic Python exercises to practice and improve fundamental programming skills.
+It is a  simple task manager program to help in task planning and evaluation of task for a given day in a week. and returns a weekly report of all tasks and their evaluation in text file and pdf.
+It implements the use of techniques of file handling
+[See project](https://github.com/isaka-12/PYTHON-PROJECTS/tree/main/PRACTICE%201)
 
 ## Technologies Used
 

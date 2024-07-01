@@ -24,7 +24,7 @@ Welcome to my Python Projects repository. This collection showcases various Pyth
 This project contains basic Python exercises to practice and improve fundamental programming skills.
 It is a  simple task manager program to help in task planning and evaluation of task for a given day in a week. and returns a weekly report of all tasks and their evaluation in text file and pdf.
 It implements the use of techniques of file handling
-[See project](https://github.com/isaka-12/PYTHON-PROJECTS/tree/main/PRACTICE%201)
+[See project](https://github.com/isaka-12/PYTHON-PROJECTS/blob/main/Task_manager.py)
 
 ## Technologies Used
 

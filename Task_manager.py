@@ -76,3 +76,4 @@ if __name__ == "__main__":
     manager.save_to_text_file("weekly_tasks.txt")
     manager.save_to_pdf("weekly_tasks.pdf")
     print("Tasks and evaluations have been saved to 'weekly_tasks.txt' and 'weekly_tasks.pdf'")
+#modified
